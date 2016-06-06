@@ -1,6 +1,6 @@
 {
   "name": "QA Club",
   "tagline": "Test. Automate. Repeat",
-  "body": "### Welcome to QA Club\r\n\r\n### Examples\r\nRepositories created under `qaclub` account contain examples of simple Java applications added for educational purposes. Extra repositories are going to be added with examples of how to automate testing process.\r\n\r\n### Useful Links\r\n`links` repository contains a list of different references to videos and articles that would help you in case you start your path in automation. Hope you will find them interesting and useful!",
+  "body": "### Examples\r\nRepositories created under `qaclub` account contain examples of simple Java applications added for educational purposes. Extra repositories are going to be added with examples of how to automate testing process.\r\n\r\n### Useful Links\r\n`links` repository contains a list of different references to videos and articles that would help you in case you start your path in automation. Hope you will find them interesting and useful!",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
