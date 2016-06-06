@@ -1,3 +1,2 @@
-# qaclub.github.io
-QA Club
+# QA Club website repo
 <http://qaclub.github.io/>
