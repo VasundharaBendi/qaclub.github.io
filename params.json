@@ -1,6 +1,6 @@
 {
   "name": "QA Club",
   "tagline": "Test. Automate. Repeat",
-  "body": "### Examples\r\nRepositories created under `qaclub` account contain examples of simple Java applications added for educational purposes. Extra repositories are going to be added with examples of how to automate testing process.\r\n\r\n### Useful Links\r\n`links` repository contains a list of different references to videos and articles that would help you in case you start your path in automation. Hope you will find them interesting and useful!",
+  "body": "### Examples\r\nRepositories created under `qaclub` account contain examples of simple Java applications added for educational purposes. Extra repositories are going to be added with examples of how to automate testing process.\r\n\r\n[WebDriverExamples](https://github.com/qaclub/WebDriverExamples) - Code examples used during June, 3, 2016 meeting.\r\n\r\n[CollectionExamples](https://github.com/qaclub/CollectionExamples) - Code examples used during lecture about collections.\r\n\r\n\r\n\r\n### Useful Links\r\n`links` repository contains a list of different references to videos and articles that would help you in case you start your path in automation. Hope you will find them interesting and useful!\r\n\r\n[For Java beginners](https://github.com/qaclub/links/blob/master/Java_beginners.md)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
