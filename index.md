@@ -21,6 +21,8 @@ Repositories created under `qaclub` account contain examples of simple Java appl
 
 [GmailApiExample](https://github.com/qaclub/GmailApiExample) - Example of using Gmail API for verifying received emails.
 
+[Postman collection example](https://github.com/qaclub/postman_collection_example) - Example of Postman collection for automating REST API response validation using Postman/newman applications. Note: newman is CLI that can be usefull for integration with CI (e.g. Jenkins)
+
 ### Useful Links
 `links` repository contains a list of different references to videos and articles that would help you in case you start your path in automation. Hope you will find them interesting and useful!
 
